@@ -1,0 +1,28 @@
+{
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+  "date_modified": 1579077364621,
+  "date_journal": 1577389992124,
+  "id": "1577389991906-3fe278bbedf830e4",
+  "preview_text": "",
+  "address": "Esquina com a Conselheiro Laurindo - R. Mal. Deodoro, S/N - Centro, Curitiba - PR, 80010-010, Brazil",
+  "music_artist": "",
+  "music_title": "",
+  "lat": -25.42948846,
+  "lon": -49.2653552,
+  "mood": 1,
+  "label": "",
+  "folder": "",
+  "sentiment": 0,
+  "timezone": "America/Belem",
+  "favourite": false,
+  "type": "html",
+  "weather": {
+    "id": 0,
+    "degree_c": 27.8,
+    "description": "Scattered clouds",
+    "icon": "02d",
+    "place": "Curitiba"
+  },
+  "photos": ["1577376669549-3fee02c5746ced7a-3fe75880fa99327b.jpg"],
+  "tags": ["anotação de exemplo"]
+}

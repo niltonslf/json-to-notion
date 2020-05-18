@@ -1,0 +1,28 @@
+{
+  "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.Lorem ipsum dolor sit amet, consectetur adipiscing elit",
+  "date_modified": 1577404939850,
+  "date_journal": 1577404550000,
+  "id": "1577404582446-3fc9ffbeb1b54a90",
+  "preview_text": "<p dir=\"auto\">Deve fazer um m&ecirc;s que tenho o viol&atilde;o. Meus dedos est&atilde;o calejando, aprendi a diferen&ccedil;a de uma nota para um acorde, comecei um curso o online. Ainda n&atilde;o estou sabendo tocar nenhuma m&uacute;sica, tenho dificuldade para trocar de acorde, mas estou muito para chegar nesse momento.&nbsp;</p>\n<p dir=\"auto\">Fico imaginando eu tocando as m&uacute;sicas que eu gosto, em lugares daora, ou apenas na minha casa aproveitando o momento.&nbsp;</p>\n<p dir=\"auto\">Sei que esse ",
+  "address": "Av. Sete de Setembro, 3385 - Batel, Curitiba - PR, 80050-315, Brazil",
+  "music_artist": "",
+  "music_title": "",
+  "lat": -25.439837,
+  "lon": -49.27161697222222,
+  "mood": 1,
+  "label": "",
+  "folder": "",
+  "sentiment": 1.25,
+  "timezone": "America/Belem",
+  "favourite": false,
+  "type": "html",
+  "weather": {
+    "id": 0,
+    "degree_c": 21.7,
+    "description": "Few clouds",
+    "icon": "02n",
+    "place": "Curitiba"
+  },
+  "photos": ["1577376669549-3fee02c5746ced7a-3fe75880fa99327b.jpg"],
+  "tags": ["Outra anotação"]
+}
